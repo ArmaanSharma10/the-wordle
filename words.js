@@ -3894,6 +3894,7 @@ export const WORDS = [
     'dings',
     'moire',
     'scion',
+    'cipla',
     'henna',
     'kraut',
     'dicks',
