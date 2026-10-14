@@ -4910,6 +4910,7 @@ export const WORDS = [
     'livre',
     'biome',
     'bunds',
+    'fucku',
     'shews',
     'diems',
     'ginny',
